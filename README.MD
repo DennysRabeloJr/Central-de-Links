@@ -1,4 +1,4 @@
-<h1 align="center"> My Links </h1>
+<h1 align="center"> Central de Links </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O My Links é um agregador de links para usar como cartão de visitas online.
+A Central de Links é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://dennysrabelojr.github.io/My-Links/)
 
