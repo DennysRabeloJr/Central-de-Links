@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Central de Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://dennysrabelojr.github.io/My-Links/)
+- [Acesse o projeto finalizado, online](https://dennysrabelojr.github.io/Central-de-Links/)
 
 ## 🔖 Layout
 
